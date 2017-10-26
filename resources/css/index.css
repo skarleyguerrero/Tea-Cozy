@@ -8,10 +8,8 @@ font-size: 22px;
 color: seashell;
 opacity: 0.9;
 background-color: black;
-/*border: solid 25px white;*/
 padding: 0;
 margin: 0;
-
 }
 
 /**Navigation******************************************************************/
@@ -26,21 +24,18 @@ align-items: center;
 border-bottom: 1px solid seashell;
 margin: 0;
 background-color: black;
-
 }
 nav img{
   height: 50px;
   margin-left: 10px;
 }
 nav ul{
-  margin-right: 10px;
-}
+  margin-right: 10px;}
 nav li {
   display: inline-block;
   text-decoration: underline;
   list-style: none;
-  margin: 10px;
-}
+  margin: 10px;}
 
 /**Main************************************************************************/
 .main{
